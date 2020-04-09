@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\TSQL_Training_LinqTo.exe.config
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\TSQL_Training_LinqTo.exe
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\TSQL_Training_LinqTo.pdb
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.Form1.resources
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.exe
+C:\Users\Lenovo\Desktop\Linq To Training\TSQL_Training_LinqTo\TSQL_Training_LinqTo\obj\Debug\TSQL_Training_LinqTo.pdb
